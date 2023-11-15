@@ -27,8 +27,8 @@ The main objectives of the project were to:
 
 ## Project Files
 - **Data File**: Due to confidentiality agreements, the data file is not available for public access.
+- [Shield Insurance Data Analysis Report.pdf](https://github.com/Mohit209e/Shield-Insurance-Analysis/blob/301530e7ce9f8fc5e7aa40217d3fb26777893fd8/Shield%20Insurance%20Data%20Analysis%20Report.pdf)
 - [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU1Yzc2N2QtMzU4Ni00YmJkLTgwYmQtN2VmZjM1NTU0MTU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) - Interactive dashboard with key insights and metrics.
-- [Link to the Presentation](#) - Add your presentation link here.
 
 ## Acknowledgments
 - Codebasics for the virtual internship opportunity.
